@@ -1,0 +1,43 @@
+body{
+    background-position: center;
+    background-size: cover;
+
+}
+
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0;
+    color: rgb(255, 0, 0);
+}
+
+button{
+    font-size: 25px;
+}
+
+#object_name,#status{
+    font-size: 22px;
+}
+
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(238, 255, 0);
+    color: rgb(0, 255, 0);
+line-height: 2.5;
+font-size: 20px;
+
+}
+
+canvas{
+    border:2px solid rgb(255, 187, 0);
+    border-radius: 20px;
+    margin-top: 120px;
+    box-shadow:5px 5px 5px rgb(11, 128, 0);
+}
+
+#object_input{
+    width: 500px;
+}
